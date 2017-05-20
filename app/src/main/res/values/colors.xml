@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64B5F6</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#64B5F6</color>
+    <color name="bg_text_color">#E3F2FD</color>
+    <!--pink theme color-->
+    <color name="colorPrimary_Pink">#F06292</color>
+    <color name="colorPrimaryDark_Pink">#E91E63</color>
+    <color name="colorAccent_Pink">#F06292</color>
+    <color name="bg_text_color_Pink">#F8BBD0</color>
+
+
+    <color name="list_item_selected_state">#99c6e9</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+</resources>
